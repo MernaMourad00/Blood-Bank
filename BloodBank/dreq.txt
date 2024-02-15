@@ -1,0 +1,8 @@
+hanen,17,b+,yes,yes,20/10/2020,16,5 2023
+abdelhady,10,o+,yes,yes,20//4/2023,16,5 2023
+abdelhady,10,o+,yes,yes,20//4/2023,16,5 2023
+hanen,17,b+,yes,yes,20/10/2020,16,5 2023
+abdelhady,10,o+,yes,yes,20//4/2023,16,5 2023
+hanen,17,b+,yes,yes,20/10/2020,16,5 2023
+ali,35,o-,no,no,20/5/2008,16,5 2023
+abdelhady,10,o+,yes,yes,20//4/2023,16,5 2023

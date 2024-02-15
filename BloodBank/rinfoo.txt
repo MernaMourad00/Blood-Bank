@@ -1,0 +1,4 @@
+1,Mido,19,mmoawad35@gmail.com,pass,male,AB,el ganzory,mohamed,
+2,mos,0,mos@gmail.com,123456,male,ab,matariya,ali,
+3,darsh,0,darsh@gmail.com,200200,male,o-,ainshams,ali,
+4,merna,21,merna@gmail.com,1234,female,a,hasabo,ahmed,

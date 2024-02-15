@@ -1,0 +1,7 @@
+2,hanen,17,hanen@mail,500500,male,b+,yes,yes,20/10/2020,
+3,abdelhady,10,abdo@gmail.com,10001000,male,o+,yes,yes,20//4/2023,
+4,ado,20,abdo@gmail.com,123456,male,o,no,no,20/10/2022,
+5,joo,12,joo@gmail.com,1234567,male,o-,yes,yes,null,
+6,abdelhady,12,abdo@mail.com,123456,male,o,no,yes,20/10/2022,
+7,moataz,21,moataz@gmail.com,,male,c,no,no,8/9/2021,
+8,salma,22,salma@gmail.com,,female,a,no,no,2/7/2020,
